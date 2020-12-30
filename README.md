@@ -19,7 +19,7 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
 </br>
 
-👨‍💻  I am passionate about Android Dev, Machine Learning & I enjoy learning new things. 
+👨‍💻  I am passionate about Native Android Dev, Machine Learning & I enjoy learning new things. 
 </br>
 
 ![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=gargk747&show_icons=true&hide_border=true)
