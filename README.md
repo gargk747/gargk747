@@ -24,6 +24,6 @@
 
 ![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=gargk747&show_icons=true&hide_border=true)
 <br />
-<!--
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gargk747.gargk747)
--->
+
