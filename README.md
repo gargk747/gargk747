@@ -12,6 +12,9 @@
 <a href="https://www.instagram.com/gargk747/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://devpost.com/gargk747">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/devpost.svg" />
+</a>
 
 <br />
 
