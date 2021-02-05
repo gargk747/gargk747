@@ -18,14 +18,14 @@
 
 <br />
 
-### About Me 🚀
+## About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
 </br>
 
 👨‍💻  I am passionate about Native Android Dev, Machine Learning & I enjoy learning new things. 
 </br>
 
-### Familiar with
+## Familiar with
 
 <p align="left">
  <a href="#">
