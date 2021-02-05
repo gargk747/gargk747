@@ -16,7 +16,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/devpost.svg" />
 </a>
 
-<br />
+</br>
 
 ## About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. 
