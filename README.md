@@ -52,8 +52,11 @@
  </a>
 </p>
 
+![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=gargk747&theme=xcode)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gargk747&layout=compact)
+
 ![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=gargk747&show_icons=true&hide_border=true)
-<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gargk747.gargk747)
 
