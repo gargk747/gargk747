@@ -54,7 +54,7 @@
 
 ![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=gargk747&theme=xcode)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gargk747)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gargk747&theme=&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gargk747&layout=compact)
 
