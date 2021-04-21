@@ -52,7 +52,7 @@
  </a>
 </p>
 
-![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=gargk747&theme=xcode)
+<!--- ![Keshav's github activity graph](https://activity-graph.herokuapp.com/graph?username=gargk747&theme=xcode) --->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gargk747)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
